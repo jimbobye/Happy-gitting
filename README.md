@@ -32,8 +32,10 @@ italicized and bold.__ This part won't have any emphasis added.
 Check out [this
 link](https://canvas.uw.edu/courses/1449798/pages/course-schedule)!
 
-### Images: 
+### Images:
 
 Check the dolphine image.  The exclamation mark in front of it means
 to load the image into the text, otherwise you have just link but no
-image. 
+image.
+
+test change 1
